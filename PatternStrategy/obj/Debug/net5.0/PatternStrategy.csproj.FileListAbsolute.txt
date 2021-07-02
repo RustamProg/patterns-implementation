@@ -1,0 +1,16 @@
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternStrategy\bin\Debug\net5.0\PatternStrategy.exe
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternStrategy\bin\Debug\net5.0\PatternStrategy.deps.json
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternStrategy\bin\Debug\net5.0\PatternStrategy.runtimeconfig.json
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternStrategy\bin\Debug\net5.0\PatternStrategy.runtimeconfig.dev.json
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternStrategy\bin\Debug\net5.0\PatternStrategy.dll
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternStrategy\bin\Debug\net5.0\ref\PatternStrategy.dll
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternStrategy\bin\Debug\net5.0\PatternStrategy.pdb
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternStrategy\obj\Debug\net5.0\PatternStrategy.csprojAssemblyReference.cache
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternStrategy\obj\Debug\net5.0\PatternStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternStrategy\obj\Debug\net5.0\PatternStrategy.AssemblyInfoInputs.cache
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternStrategy\obj\Debug\net5.0\PatternStrategy.AssemblyInfo.cs
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternStrategy\obj\Debug\net5.0\PatternStrategy.csproj.CoreCompileInputs.cache
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternStrategy\obj\Debug\net5.0\PatternStrategy.dll
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternStrategy\obj\Debug\net5.0\ref\PatternStrategy.dll
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternStrategy\obj\Debug\net5.0\PatternStrategy.pdb
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternStrategy\obj\Debug\net5.0\PatternStrategy.genruntimeconfig.cache

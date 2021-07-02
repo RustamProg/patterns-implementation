@@ -1,0 +1,16 @@
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternObserver\bin\Debug\net5.0\PatternObserver.exe
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternObserver\bin\Debug\net5.0\PatternObserver.deps.json
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternObserver\bin\Debug\net5.0\PatternObserver.runtimeconfig.json
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternObserver\bin\Debug\net5.0\PatternObserver.runtimeconfig.dev.json
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternObserver\bin\Debug\net5.0\PatternObserver.dll
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternObserver\bin\Debug\net5.0\ref\PatternObserver.dll
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternObserver\bin\Debug\net5.0\PatternObserver.pdb
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternObserver\obj\Debug\net5.0\PatternObserver.csprojAssemblyReference.cache
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternObserver\obj\Debug\net5.0\PatternObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternObserver\obj\Debug\net5.0\PatternObserver.AssemblyInfoInputs.cache
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternObserver\obj\Debug\net5.0\PatternObserver.AssemblyInfo.cs
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternObserver\obj\Debug\net5.0\PatternObserver.csproj.CoreCompileInputs.cache
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternObserver\obj\Debug\net5.0\PatternObserver.dll
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternObserver\obj\Debug\net5.0\ref\PatternObserver.dll
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternObserver\obj\Debug\net5.0\PatternObserver.pdb
+C:\Users\gabdu\RiderProjects\PatternApplication\PatternObserver\obj\Debug\net5.0\PatternObserver.genruntimeconfig.cache
